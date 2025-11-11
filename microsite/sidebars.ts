@@ -673,6 +673,7 @@ export default {
       'api/deprecations',
       'references/glossary',
       'api/utility-apis',
+      'reference/index',
     ],
   },
   releases: {
